@@ -2,12 +2,28 @@
     margin: 0;
     padding: 0;
 }
+header{
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    h1{
+
+    }
+    p{
+        margin-top: 1em;
+    }
+    
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+
 }
 footer{
     text-align: center;
     padding: 2em;
-    background-color: rgb(160, 199, 52);
-    
+    background-color: rgb(255, 255, 255);
 }
